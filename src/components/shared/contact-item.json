@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_contact_items",
+  "info": {
+    "displayName": "ContactItem"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

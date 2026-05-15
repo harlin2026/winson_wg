@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_layout_headers",
+  "info": {
+    "displayName": "Header"
+  },
+  "options": {},
+  "attributes": {
+    "logomark": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "logo": {
+      "type": "component",
+      "component": "shared.link",
+      "repeatable": false
+    },
+    "navitems": {
+      "type": "component",
+      "component": "shared.link",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
